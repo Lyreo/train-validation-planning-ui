@@ -1,0 +1,1 @@
+import React from 'react';\n\nconst Header = () => {\n  return (\n    <header>\n      <h1>Train Planning App</h1>\n    </header>\n  );\n};\n\nexport default Header;

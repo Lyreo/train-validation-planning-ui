@@ -1,0 +1,1 @@
+import React from 'react';\n\nconst Footer = () => {\n  return (\n    <footer>\n      <p>&copy; 2023 Train Planning App</p>\n    </footer>\n  );\n};\n\nexport default Footer;

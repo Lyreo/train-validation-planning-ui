@@ -1,0 +1,1 @@
+import axios from 'axios';\n\nconst api = axios.create({\n  baseURL: 'https://api.lyreo.com'\n});\n\nexport default api;

@@ -1,0 +1,1 @@
+import React from 'react';\n\nconst TrainList = () => {\n  return (\n    <div>\n      <h2>List of trains</h2>\n      {/* Train components will go here */}\n    </div>\n  );\n};\n\nexport default TrainList;
